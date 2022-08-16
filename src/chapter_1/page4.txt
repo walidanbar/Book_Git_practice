@@ -1,0 +1,6 @@
+This is chapter 1 page 4 file
+I created this with gitbuh.com
+
+Basically it will br on the remote repo  before the local 
+
+i need to pull                 

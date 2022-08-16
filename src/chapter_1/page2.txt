@@ -4,3 +4,4 @@
  some work here
 
  I edit page 2 after I commit it
+ page 3 wasn't added
